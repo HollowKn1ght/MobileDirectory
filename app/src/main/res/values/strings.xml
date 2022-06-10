@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewestApp</string>
+    <string name="home">Главная</string>
+    <string name="favourites">Избранное</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_a_blank_fragment">Hello a blank fragment</string>
+    <string name="hello_b_blank_fragment">Hello b blank fragment</string>
+</resources>
